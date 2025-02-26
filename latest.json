@@ -1,7 +1,7 @@
 {
-  "version": "0.1.7",
-  "notes": "sekizinci version",
-  "pub_date": "2025-02-22T20:30:59Z",
+  "version": "0.1.8",
+  "notes": "dokuzuncu version",
+  "pub_date": "2025-02-22T20:31:00Z",
     "platforms": {
     "darwin-x86_64": {
       "signature": "Content of app.tar.gz.sig",
@@ -13,11 +13,11 @@
     },
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbnk5K1E4ZnBZMlJDUGxRdGc2SFlyeW5NU1ZUVE80SStkVzltNVM4T2lBWHpPSTI4M3hUUGk0QkcydHZMV0NLWDhNT005NFdVMkZKajhCSnF0ZDNLZ2RxUG54aHZnUmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMzUxMjUwCWZpbGU6RUNaQURPIERyaXZlcl8wLjEuNV9hbWQ2NC5BcHBJbWFnZQpYaWhNQVZmOVBzWGpQUTVaTDhsNnJOVUt6WUp4UWFmZkcrd2hzbmVxLzR3ek1wVWVudGxMYmNkWEJ6ZFFZdWdXOHdhbXhjNkZqWXB0c2xEWk5JZkVDdz09Cg==",
-      "url": "https://github.com/eczado/device-driver-release/releases/download/0.1.7/ECZADO.Driver_0.1.7_amd64.AppImage"
+      "url": "https://github.com/eczado/device-driver-release/releases/download/0.1.8/ECZADO.Driver_0.1.8_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbnk5K1E4ZnBZMlFZSUNPakpNZ1h5YkhZVnEwSzAvKzBWWEFWTFEzTjVnRHUzYXh2bmRpT2FzZXcvTlFzcmluaEh0UkYzaUdFVFpydytzR1FmVlQwNWEzQWxtOGlqWVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwNTk1MzMzCWZpbGU6RUNaQURPIERyaXZlcl8wLjEuN194NjQtc2V0dXAuZXhlCmtNbTE5QkIwREdkaHlYVk5CUzJJQXNnU2x5bWt6ODhKUi9PTHcya1FEQkNLZTN5Y3IrYnhKcW93Q21RUlBTcTVTMWQ3WGhKdzNOYVFna281eDRDcUN3PT0K",
-      "url": "https://github.com/eczado/device-driver-release/releases/download/0.1.7/ECZADO.Driver_0.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbnk5K1E4ZnBZMlFtd0dnazFCTlY0aW9rRHA4R1RSMUp0U2hMK0RPWGcrUVgzTktnVE5HQzQrYmowTEZJYWpndVlxdnRXeTJsTlZ4dDUyd2JpdEduWmpmSHJmM0dYRWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwNTk1ODM4CWZpbGU6RUNaQURPIERyaXZlcl8wLjEuOF94NjQtc2V0dXAuZXhlCjEvbWFpL0hTS2pBN1pvTkNjU2JmTU9BdkhjUDZ4bDhCVHhiekxCVWRqY296NnFHT1NMczJRcG53TXp5RDM5ako1Y3Q5OXh2VFloT09IcEtUM0lQNEJBPT0K",
+      "url": "https://github.com/eczado/device-driver-release/releases/download/0.1.8/ECZADO.Driver_0.1.8_x64-setup.exe"
     }
   }
 }
