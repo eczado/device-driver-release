@@ -12,8 +12,8 @@
       "url": "https://github.com/username/reponame/releases/download/v1.0.0/app-aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbnk5K1E4ZnBZMlJDUGxRdGc2SFlyeW5NU1ZUVE80SStkVzltNVM4T2lBWHpPSTI4M3hUUGk0QkcydHZMV0NLWDhNT005NFdVMkZKajhCSnF0ZDNLZ2RxUG54aHZnUmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMzUxMjUwCWZpbGU6RUNaQURPIERyaXZlcl8wLjEuNV9hbWQ2NC5BcHBJbWFnZQpYaWhNQVZmOVBzWGpQUTVaTDhsNnJOVUt6WUp4UWFmZkcrd2hzbmVxLzR3ek1wVWVudGxMYmNkWEJ6ZFFZdWdXOHdhbXhjNkZqWXB0c2xEWk5JZkVDdz09Cg==",
-      "url": "https://github.com/eczado/device-driver-release/releases/download/0.1.8/ECZADO.Driver_0.1.8_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbnk5K1E4ZnBZMmU5cS9adys2aDNzZDFzYnozVFpqMk9IYlRvbXZZRVVpVXhlcS9HRUdPWGYxa21QWm1iZythS25WZ3hvekoyMkZBVVNXM0NDRVQwSktFaGZSRUluMHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwODM0Njc3CWZpbGU6RUNaQURPIERlc2t0b3AgRHJpdmVyXzAuMS44X2FtZDY0LkFwcEltYWdlCjVhZXdOQy9mZ1NkdUJ1NDVZZTdkTjdaOWo0NURuR1JuRHFXMTh2NjVVK0FxYXJWT0VUYlZGcGgwOHFhZ0VRdTdwLzV5VHhGL3o2bWN5TGNoK1ZPU0N3PT0K",
+      "url": "https://github.com/eczado/device-driver-release/releases/download/0.1.8/ECZADO.Desktop.Driver_0.1.8_amd64.AppImage"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbnk5K1E4ZnBZMlFtd0dnazFCTlY0aW9rRHA4R1RSMUp0U2hMK0RPWGcrUVgzTktnVE5HQzQrYmowTEZJYWpndVlxdnRXeTJsTlZ4dDUyd2JpdEduWmpmSHJmM0dYRWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwNTk1ODM4CWZpbGU6RUNaQURPIERyaXZlcl8wLjEuOF94NjQtc2V0dXAuZXhlCjEvbWFpL0hTS2pBN1pvTkNjU2JmTU9BdkhjUDZ4bDhCVHhiekxCVWRqY296NnFHT1NMczJRcG53TXp5RDM5ako1Y3Q5OXh2VFloT09IcEtUM0lQNEJBPT0K",
